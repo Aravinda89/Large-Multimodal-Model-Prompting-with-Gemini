@@ -1,4 +1,4 @@
-# DeepLearning.AI
+# Large Multimodal Model Prompting with Gemini - deeplearning.ai 
 
 These are the notebooks that accompany the [DeepLearning.AI](https://www.deeplearning.ai)'s short course, [Large Multimodal Model (LMM) Prompting with Gemini](https://learn.deeplearning.ai/courses/large-multimodal-model-prompting-with-gemini/lesson/1/introduction), built in partnership with Google Cloud.
 
